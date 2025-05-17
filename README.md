@@ -56,7 +56,7 @@ plt.imshow(img_erode,cmap='gray')
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/a5278de4-4fe8-4edc-afb3-00a5ed8ab968)
+![image](https://github.com/user-attachments/assets/549ebe5e-c541-490b-911a-c968f7b4b79f)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
